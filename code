@@ -1,17 +1,4 @@
-{
- "cells": [
-  {
-   "cell_type": "markdown",
-   "metadata": {},
-   "source": [
-    "# THE SPARKS FOUNDATION\n",
-    "\n",
-    "TASK 1 - Prediction using Supervised ML\n",
-    "To Predict the percentage of marks of the students based on the number of hours they studied\n",
-    "\n",
-    "By - Yeshvanth Raju Kurapati"
-   ]
-  }
+
 from pytube import YouTube
 
 link = input("Enter link of YouTube video you want to download:  ")
