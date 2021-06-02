@@ -1,5 +1,4 @@
 from pytube import YouTube
-
 #ask for the link from user
 link = input("Enter the link of YouTube video you want to download:  ")
 yt = YouTube(link)
